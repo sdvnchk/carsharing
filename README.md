@@ -12,10 +12,7 @@
 - **Email address:** testuser@gmail.com
 - **Password:** test12345userpassword
 
-## Запуск сервера
-Для запуска сервера выполни следующие команды в терминале:
-
-```bash
+<!-- Запуск сервера -->
 python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
